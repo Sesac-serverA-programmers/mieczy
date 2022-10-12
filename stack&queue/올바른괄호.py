@@ -1,3 +1,4 @@
+### O(N)
 def solution(s):
     answer = True
     stack = []
